@@ -20,13 +20,33 @@ Mau custom web ucapan online? Order Aja di Deka Tutorial !! (DM untuk order)
 
 konten = [
   {
-    gambar: "NamaFileGambar",
-    ucapan: "UcapanKalian",
-  },
+    gambar: "stiker6.gif",
+    ucapan: "Hai baby💝💖",
+    }, 
+    {
+    gambar: "stiker1.gif",
+    ucapan: "Aku sayang kamu❣️",
+    }, 
+    {
+    gambar: "stiker2.gif",
+    ucapan: "Aku cinta kamu💕💖",
+    }, 
+    {
+    gambar: "stiker3.gif",
+    ucapan: "Seutuhnya, semuanya, dan aku bersyukur punya kamu💘💗",
+    }, 
+    {
+    gambar: "stiker4.gif",
+    ucapan: "Aku cinta kamu tulus apa adanya dan apapun keadaannya❤‍🩹💕",
+    }, 
+    {
+    gambar: "stiker5.gif",
+    ucapan: "Ngewe ta",
+    }, 
 ];
 
-musik = "musik.mp3";
-nomorWhatsapp = "6281xxx";
+musik = "musik1.mp3";
+pengirim = "Aldi";
 
 /*=========================*/
 </script><script> DekaTutorial(konten, musik, nomorWhatsapp); </script> </body> </html>
